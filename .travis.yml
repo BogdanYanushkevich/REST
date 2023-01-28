@@ -1,0 +1,11 @@
+
+{
+  "language": "java",
+  "os": [
+    "windows"
+  ],
+  "dist": "xenial",
+  "jdk": [
+    "-openjdk19"
+  ],
+}
