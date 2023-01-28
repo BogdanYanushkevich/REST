@@ -2,7 +2,7 @@
 {
   "language": "java",
   "os": [
-    "windows"
+    "linux"
   ],
   "dist": "xenial",
   "jdk": [
