@@ -1,0 +1,12 @@
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\repository\GenericRepository.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\util\GsonUtil.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\repository\impl\HibUserRepositoryImpl.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\model\File.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\repository\UserRepository.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\service\UserService.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\controller\UserRestControllerV1.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\model\User.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\controller\FileRestControllerV1.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\repository\impl\HibernateSessionFactory.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\controller\EventRestControllerV1.java
+C:\Users\jaymo\IdeaProjects\REST\src\main\java\com\bogdan_yanushkevich\javacore\rest\model\Event.java
